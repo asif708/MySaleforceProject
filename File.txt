@@ -1,8 +1,8 @@
-This is my Hello Git demo
+//This is my Hello Git demo
 class HelloGit{
 
 	public static void main(String[] args){
-		sysout("Hello Git");
+		System.out.println("Hello Git");
 	}
 
 }
