@@ -1,6 +1,10 @@
 //This is my Hello Git demo
 class HelloGit{
 
+	void myMethod(String str){
+		sysout("MyMethod added by user2");			// remote change
+	}
+
 	public static void main(String[] args){
 		System.out.println("Hello Git");
 	}
